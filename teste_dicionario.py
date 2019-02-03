@@ -1,3 +1,4 @@
+
 # Um dicionário em Python é uma coleção de pares chave-valor. Cada chave
 # é conectada a um valor, e você pode usar uma chave para acessar o valor
 # associado a ela. O valor de uma chave pode ser um número, uma string,
@@ -79,3 +80,4 @@ for language in set(favorite_languages.values()):
 
 # Podemos aninhar um conjunto de dicionários em uma lista, uma lista de itens em um dicionário ou até
 # mesmo um dicionário em outro dicionário. Aninhar informações é um recurso eficaz, como mostrarão os próximos exemplos.
+

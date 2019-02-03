@@ -1,4 +1,4 @@
-# Conhecendo atay
+# C nhecendo atay
 
 # Cria o array
 frutas = ['laranja','banana','maçã']
